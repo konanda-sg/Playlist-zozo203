@@ -372,15 +372,17 @@ https://github.com/OngisMbois/iptv/raw/main/prmount.m3u8
 #EXTINF:-1 tvg-id="CitraBioskop.id" tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="MOVIES",Citra Bioskop 
 http://edge.linknetott.swiftserve.com/channelgroup4/cg435production/ch376/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR2SVBpJ/etvbioskop.png" group-title="MOVIES",  ETV Bioskop
+https://kametv.my.id/putar/etv01.php
 
-#EXTINF:-1 tvg-name="ID: Etv Bioskop" tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="MOVIES",Etv Bioskop 
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298526
-#EXTINF:-1 tvg-name="ID: Etv Bioskop 02" tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="MOVIES",Etv Bioskop 02
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298527
-#EXTINF:-1 tvg-name="ID: Etv Bioskop 03" tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="MOVIES",Etv Bioskop 03
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298528
-#EXTINF:-1 tvg-name="ID: Etv Bioskop 04" tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="MOVIES",Etv Bioskop 04 
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298529
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CKxbhDdd/etvbioskop2.png" group-title="MOVIES",  ETV Bioskop 2
+https://kametv.my.id/putar/etv02.php
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/j5WNNbHb/etvbioskop3.png" group-title="MOVIES",  ETV Bioskop 3
+https://kametv.my.id/putar/etv03.php
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPNgpwW0/etvbioskop4.png" group-title="MOVIES",  ETV Bioskop 4
+https://kametv.my.id/putar/etv04.php
 
 #EXTINF:0 tvg-id="Celestial Movies" tvg-name="Celestial Movies" tvg-logo="http://www.mncvision.id.E" tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="MOVIES",Celestial Movies
 https://github.com/OngisMbois/iptv/raw/main/celmovie.m3u8
