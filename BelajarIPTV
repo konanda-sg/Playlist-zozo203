@@ -277,6 +277,9 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
 #########################################################################################
 ##################  FILM   ######################################
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5hFnKGw/flik.png" group-title="FILM",Flik
+https://kametv.my.id/putar/flik.php
+
 #EXTINF:-1  tvg-id="ext" group-title="FILM" tvg-logo="https://i.imgur.com/rGTHbAM.png", Sony GEM 
 https://github.com/OngisMbois/iptv/raw/main/gem.m3u8
 
