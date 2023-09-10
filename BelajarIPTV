@@ -277,6 +277,16 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
 #########################################################################################
 ##################  FILM   ######################################
 
+#EXTINF:-1  tvg-id="ext" group-title="FILM" tvg-logo="https://i.imgur.com/rGTHbAM.png", Sony GEM 
+https://github.com/OngisMbois/iptv/raw/main/gem.m3u8
+
+#EXTINF:-1 tvg-id="IonPlus.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.postimg.cc/sDJHstYd/K-Plus-Asia-Logo-1-removebg-preview.png" group-title="FILM",KPlus
+http://210.210.155.37/uq2663/h/h08/index.m3u8
+###https://github.com/OngisMbois/iptv/raw/main/kplus.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_blueant_small.png" group-title="FILM",Rock Entertainment
+https://github.com/OngisMbois/iptv/raw/main/rockent.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cLPqywmy/imc.png" group-title="FILM",Indonesia Movie Channel
@@ -1058,27 +1068,11 @@ https://kametv.my.id/putar/useesatu.php
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MHJXKNxB/useesports2.png" group-title="OLAHRAGA", Usee Sports 2
 https://kametv.my.id/putar/useedua.php
 
-##################################################################
-########## Entertainment ######################################
-
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_blueant_small.png" group-title="ENTERTAINMENT",Rock Entertainment
-https://github.com/OngisMbois/iptv/raw/main/rockent.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.useetv.com/logo_paramount_ver1.png" group-title="ENTERTAINMENT",Paramount 
-https://github.com/OngisMbois/iptv/raw/main/prmount.m3u8
-
-#EXTINF:-1  tvg-id="ext" group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/rGTHbAM.png", Sony GEM 
-https://github.com/OngisMbois/iptv/raw/main/gem.m3u8
-
-#EXTINF:-1 tvg-id="IonPlus.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.postimg.cc/sDJHstYd/K-Plus-Asia-Logo-1-removebg-preview.png" group-title="ENTERTAINMENT",KPlus
-http://210.210.155.37/uq2663/h/h08/index.m3u8
-###https://github.com/OngisMbois/iptv/raw/main/kplus.m3u8
+####################################################################
+############ ENTERTAINMENT #######################################
 
 #EXTINF:-1 tvg-name="ID: Citra Dangdut" tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="ENTERTAINMENT", Citra Dangdut
 https://github.com/OngisMbois/iptv/raw/main/cdangdut.m3u8
-
-####################################################################
-############ ENTERTAINMENT #######################################
 
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.postimg.cc/9fxqC5J8/20220926-201913.png",Asian Food Network 
 https://github.com/OngisMbois/iptv/raw/main/afn.m3u8
