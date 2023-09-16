@@ -312,31 +312,28 @@ http://103.84.206.91:8989/4077/hls/playlist.m3u8
 #https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.m3u8
 #http://cdn-telkomsel-01.akamaized.net/Content/dash/Live/channel(9ef01e28-6fac-49c1-9aa4-40b37d431881)/manifest.mpd
 
-#EXTINF:-1 tvg-id="HBO.id" tvg-logo="https://i.postimg.cc/BnWDY57P/hbo.png" group-title="FILM",HBO 
+#EXTINF:-1 tvg-id="HBO.id" tvg-#EXTINF:-1 tvg-id="HBO.id" tvg-logo="https://i.postimg.cc/BnWDY57P/hbo.png" group-title="FILM",HBO 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://maxstream.deerem-12537iptv.workers.dev/hbohd/license-proxy-widevine/cenc/?specConform=true
 http://cdn-telkomsel-01.akamaized.net/Content/dash/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://maxstream.deerem-12537iptv.workers.dev/hbofamily/license-proxy-widevine/cenc/?specConform=true
-#EXTINF:-1 tvg-id="HBO.id" tvg-logo="https://i.postimg.cc/RhxhQmT3/hbofam.png" group-title="FILM",HBO Family
-http://103.84.206.91:8989/4078/hls/playlist.m3u8
-#http://cdn-telkomsel-01.akamaized.net/Content/dash/Live/channel(cec31cdd-d2ff-4c23-8a76-ad1c0ef025e2)/manifest.mpd
+#EXTINF:-1 tvg-id="HBO.id" tvg-logo="https://i.postimg.cc/RhxhQmT3/hbofam.png" group-title="FILM",HBO Family 
+http://cdn-telkomsel-01.akamaized.net/Content/dash/Live/channel(cec31cdd-d2ff-4c23-8a76-ad1c0ef025e2)/manifest.mpd
 #https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://maxstream.deerem-12537iptv.workers.dev/hbosign/license-proxy-widevine/cenc/?specConform=true
-#EXTINF:-1 tvg-id="HBO.id" tvg-logo="https://i.postimg.cc/4yMDhvRs/hbosig.png" group-title="FILM",HBO Signature
-http://103.84.206.91:8989/4079/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="HBO.id" tvg-logo="https://i.postimg.cc/4yMDhvRs/hbosig.png" group-title="FILM",HBO Signature 
 #https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.m3u8
-#http://cdn-telkomsel-01.akamaized.net/Content/dash/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd
+http://cdn-telkomsel-01.akamaized.net/Content/dash/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://maxstream.deerem-12537iptv.workers.dev/hbohits/license-proxy-widevine/cenc/?specConform=true
-#EXTINF:-1 tvg-id="HBO.id" tvg-logo="https://i.postimg.cc/0QGGS9gQ/hbohits.png" group-title="FILM",HBO Hits
-http://103.84.206.91:8989/4076/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="HBO.id" tvg-logo="https://i.postimg.cc/0QGGS9gQ/hbohits.png" group-title="FILM",HBO Hits 
 #https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.m3u8
-#http://cdn-telkomsel-01.akamaized.net/Content/dash/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd
+http://cdn-telkomsel-01.akamaized.net/Content/dash/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
@@ -523,13 +520,86 @@ https://ddy5.webdicdn.lol/ddy5/premium112/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://i.postimg.cc/6qMrh544/tesn2.png",TSN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://i.postimg.cc/sgKnhxC0/alkass.png",Alkass 1
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1ew/master.m3u8
+
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://i.postimg.cc/sgKnhxC0/alkass.png",Alkass 2
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2e/master.m3u8
+
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://i.postimg.cc/sgKnhxC0/alkass.png",Alkass 3
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3e/master.m3u8
+
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://i.postimg.cc/sgKnhxC0/alkass.png",Alkass 4 
+https://liveak.alkassdigital.net/livehttporigin/smil:YWxrYXNh2.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://i.postimg.cc/sgKnhxC0/alkass.png",Alkass 5
+https://liveak.alkassdigital.net/livehttporigin/smil:YWxrYXNh3.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://i.postimg.cc/kGcpVvcY/ligadecampeones.png",Movistar Liga De Campeones
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddy5.webdicdn.lol/ddy5/premium111/tracks-v1a1/mono.m3u8
+https://webudit.webdicdn.lol/lb/premium435/index.m3u8
+
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://i.postimg.cc/WbsgdJ8B/lfctv.png",LFCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://webudit.webdicdn.lol/lb/premium826/index.m3u8
+
+
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://i.postimg.cc/wjLt1vX8/truepremfb5.png",True Premier Football 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+https://sport.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://i.postimg.cc/Jh8sZLxy/truepremfb4.png",True Premier Football 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+https://sport.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://i.postimg.cc/wB5sGvMc/truepremfb3.png",True Premier Football 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+https://sport.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://i.postimg.cc/SsNj1fwk/truepremfb2.png",True Premier Football 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+https://sport.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://i.postimg.cc/N0x5xzCd/truepremfb1.png",True Premier Football 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+https://sport.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://i.postimg.cc/SK9Gph3H/tsn5.png",TSN 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://webudit.webdicdn.lol/lb/premium115/index.m3u8
+
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://i.postimg.cc/QtrJ8zrC/tsn4.png",TSN 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://webudit.webdicdn.lol/lb/premium114/index.m3u8
+
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://i.postimg.cc/pTYYpB2Z/tsn3.png",TSN 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://webudit.webdicdn.lol/lb/premium113/index.m3u8
+
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://i.postimg.cc/6qMrh544/tesn2.png",TSN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://webudit.webdicdn.lol/lb/premium112/index.m3u8
+
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://i.postimg.cc/6qMrh544/tesn2.png",TSN 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://webudit.webdicdn.lol/lb/premium111/index.m3u8
 
 #EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://i.postimg.cc/fTRD5yQB/ufcfp.png",UFC Fight Pass
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddy2.webdicdn.lol/ddy2/premium55/tracks-v1a1/mono.m3u8
+https://webudit.webdicdn.lol/lb/premium55/index.m3u8
 
 #EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://i.postimg.cc/d1DCR419/intertv.png",Inter TV
 http://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=691522&extension=ts&play_token=mbYDTyDTcc
@@ -549,172 +619,173 @@ http://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=811939&exte
 #EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://i.postimg.cc/Zq4DyQTL/foxdeportes.png",Fox Deportes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddh2.webdicdn.lol/ddh2/premium643/tracks-v1a1/mono.m3u8
+https://webudit.webdicdn.lol/lb/premium643/index.m3u8
 
 #EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://i.postimg.cc/FRKWTJkd/ziggosportselect.png",Ziggo Sport Select
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddh2.webdicdn.lol/ddh2/premium393/tracks-v1a1/mono.m3u8
+https://webudit.webdicdn.lol/lb/premium393/index.m3u8
 
 #EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://i.postimg.cc/7hHCwncQ/espndeportes.png",ESPN Deportes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddy1.webdicdn.lol/ddy1/premium375/playlist.m3u8
+https://webudit.webdicdn.lol/lb/premium375/index.m3u8
 
 #EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://i.postimg.cc/Y9f45sXW/movistarlaliga.png",Movistar La Liga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddy1.webdicdn.lol/ddy1/premium84/tracks-v1a1/mono.m3u8
+https://webudit.webdicdn.lol/lb/premium84/index.m3u8
 
 #EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://i.postimg.cc/MTqqt3Kw/daznf1.png",DAZN F1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddy5.webdicdn.lol/ddy5/premium537/playlist.m3u8
+https://webudit.webdicdn.lol/lb/premium537/index.m3u8
 
 #EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://i.postimg.cc/dQ87tGdz/daznlaliga.png",DAZN La Liga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddy5.webdicdn.lol/ddy5/premium538/tracks-v1a1/mono.m3u8
+https://webudit.webdicdn.lol/lb/premium538/index.m3u8
 
 #EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://i.postimg.cc/tTXpDnSM/dazn1.png",DAZN 1 DE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddh1.webdicdn.lol/ddh1/premium426/tracks-v1a1/mono.m3u8
+https://webudit.webdicdn.lol/lb/premium426/index.m3u8
 
 #EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://i.postimg.cc/hG8K91rm/dazn2.png",DAZN 2 DE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddh1.webdicdn.lol/ddh1/premium427/tracks-v1a1/mono.m3u8
+https://webudit.webdicdn.lol/lb/premium427/index.m3u8
 
 #EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://i.postimg.cc/tTXpDnSM/dazn1.png",DAZN 1 ES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddh1.webdicdn.lol/ddh1/premium445/tracks-v1a1/mono.m3u8
+https://webudit.webdicdn.lol/lb/premium445/index.m3u8
 
 #EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://i.postimg.cc/hG8K91rm/dazn2.png",DAZN 2 ES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddy1.webdicdn.lol/ddy1/premium446/tracks-v1a1/mono.m3u8
+https://webudit.webdicdn.lol/lb/premium446/index.m3u8
 
 #EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://i.postimg.cc/m2hZ0MLx/dazn3.png",DAZN 3 ES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddh2.webdicdn.lol/ddh2/premium447/index.m3u8
+https://webudit.webdicdn.lol/lb/premium447/index.m3u8
 
 #EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://i.postimg.cc/Pq15SjtP/dazn4.png",DAZN 4 ES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddh2.webdicdn.lol/ddh2/premium448/index.m3u8
+https://webudit.webdicdn.lol/lb/premium448/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2jthbJYq/sporttv5.png" group-title="OLAHRAGA",Sport TV 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddy2.webdicdn.lol/ddy2/premium290/playlist.m3u8
+https://webudit.webdicdn.lol/lb/premium290/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L8t1W81f/sporttv4.png" group-title="OLAHRAGA",Sport TV 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddy2.webdicdn.lol/ddy2/premium289/playlist.m3u8
+https://webudit.webdicdn.lol/lb/premium289/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SKmMbb6P/sporttv3.png" group-title="OLAHRAGA",Sport TV 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddh2.webdicdn.lol/ddh2/premium454/tracks-v1a1/mono.m3u8
+https://webudit.webdicdn.lol/lb/premium454/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zGZhpgV8/sporttv2.png" group-title="OLAHRAGA",Sport TV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddh2.webdicdn.lol/ddh2/premium74/tracks-v1a1/mono.m3u8
+https://webudit.webdicdn.lol/lb/premium74/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SNz8WrQg/sporttv1.png" group-title="OLAHRAGA",Sport TV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddh1.webdicdn.lol/ddh1/premium49/tracks-v1a1/mono.m3u8
+https://webudit.webdicdn.lol/lb/premium49/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RCjFNXvd/sscextra3.png" group-title="OLAHRAGA",SSC Extra 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddh2.webdicdn.lol/ddh2/premium621/playlist.m3u8
+https://webudit.webdicdn.lol/lb/premium621/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/htVKzB2P/sscextra2.png" group-title="OLAHRAGA",SSC Extra 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddh2.webdicdn.lol/ddh2/premium620/playlist.m3u8
+https://webudit.webdicdn.lol/lb/premium620/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9QHhjkc3/sscextra1.png" group-title="OLAHRAGA",SSC Extra 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddh2.webdicdn.lol/ddh2/premium619/tracks-v1a1/mono.m3u8
+https://webudit.webdicdn.lol/lb/premium619/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PxphR42J/ssc.png" group-title="OLAHRAGA",SSC 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddh2.webdicdn.lol/ddh2/premium618/playlist.m3u8
+https://webudit.webdicdn.lol/lb/premium618/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PxphR42J/ssc.png" group-title="OLAHRAGA",SSC 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddh2.webdicdn.lol/ddh2/premium617/playlist.m3u8
+https://webudit.webdicdn.lol/lb/premium617/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PxphR42J/ssc.png" group-title="OLAHRAGA",SSC 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddh2.webdicdn.lol/ddh2/premium616/playlist.m3u8
+https://webudit.webdicdn.lol/lb/premium616/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PxphR42J/ssc.png" group-title="OLAHRAGA",SSC 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddh2.webdicdn.lol/ddh2/premium615/playlist.m3u8
+#https://webudit.webdicdn.lol/lb/premium615/index.m3u8
+http://38gb.pro:80/live/4478355/94943550/54246a62-5e99-4b33-b1a7-b6eed1985e60.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PxphR42J/ssc.png" group-title="OLAHRAGA",SSC 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddh2.webdicdn.lol/ddh2/premium614/playlist.m3u8
+https://webudit.webdicdn.lol/lb/premium614/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k4Z6cx1f/skysportnz9.png" group-title="OLAHRAGA",Sky Sport 9 NZ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddh2.webdicdn.lol/ddh2/premium596/tracks-v1a1/mono.m3u8
+https://webudit.webdicdn.lol/lb/premium596/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4NcFRGcx/skysportnz8.png" group-title="OLAHRAGA",Sky Sport 8 NZ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddh2.webdicdn.lol/ddh2/premium595/tracks-v1a1/mono.m3u8
+https://webudit.webdicdn.lol/lb/premium595/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Hj1JGTCM/skysportnz7.png" group-title="OLAHRAGA",Sky Sport 7 NZ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddh2.webdicdn.lol/ddh2/premium594/tracks-v1a1/mono.m3u8
+https://webudit.webdicdn.lol/lb/premium594/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k47fCdqk/skysportnz6.png" group-title="OLAHRAGA",Sky Sport 6 NZ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddh2.webdicdn.lol/ddh2/premium593/tracks-v1a1/mono.m3u8
+https://webudit.webdicdn.lol/lb/premium593/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0jBf7MDs/skysportnz5.png" group-title="OLAHRAGA",Sky Sport 5 NZ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddh2.webdicdn.lol/ddh2/premium592/tracks-v1a1/mono.m3u8
+https://webudit.webdicdn.lol/lb/premium592/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zBpHRsKZ/skysportnz4.png" group-title="OLAHRAGA",Sky Sport 4 NZ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddh2.webdicdn.lol/ddh2/premium591/tracks-v1a1/mono.m3u8
+https://webudit.webdicdn.lol/lb/premium591/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RhX143Xt/skysportnz3.png" group-title="OLAHRAGA",Sky Sport 3 NZ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddh2.webdicdn.lol/ddh2/premium590/tracks-v1a1/mono.m3u8
+https://webudit.webdicdn.lol/lb/premium590/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7YHXd4m7/skysportnz2.png" group-title="OLAHRAGA",Sky Sport 2 NZ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddh2.webdicdn.lol/ddh2/premium589/tracks-v1a1/mono.m3u8
+https://webudit.webdicdn.lol/lb/premium589/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qvz5z0fn/skysportnz1.png" group-title="OLAHRAGA",Sky Sport 1 NZ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddh2.webdicdn.lol/ddh2/premium588/tracks-v1a1/mono.m3u8
+https://webudit.webdicdn.lol/lb/premium588/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tg3qb6Z1/kozoom.png" group-title="OLAHRAGA",Kozoom TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kozoom-tv/manifest.m3u8
@@ -738,95 +809,95 @@ ttp://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=1032528&exte
 ttp://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=1032529&extension=ts&play_token=g75CjvYlU7
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/brqnSmQg/arena2.png" group-title="OLAHRAGA",Astro Arena 2
-#https://kametv.my.id/putar/astroarena2.php
+https://kametv.my.id/putar/astroarena2.php
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JzYQVCbL/asrena.png" group-title="OLAHRAGA",Astro Arena
-#https://kametv.my.id/putar/astroarena.php
+https://kametv.my.id/putar/astroarena.php
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gkVSbPkh/fs2.png" group-title="OLAHRAGA",Fox Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddh2.webdicdn.lol/ddh2/premium758/tracks-v1a1/mono.m3u8
+https://webudit.webdicdn.lol/lb/premium758/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FR8QJX2p/fs1.png" group-title="OLAHRAGA",Fox Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddh2.webdicdn.lol/ddh2/premium39/tracks-v1a1/mono.m3u8
+https://webudit.webdicdn.lol/lb/premium39/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JhVVNH5k/espnu.png" group-title="OLAHRAGA",ESPNU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddh2.webdicdn.lol/ddh2/premium316/tracks-v1a1/mono.m3u8
+https://webudit.webdicdn.lol/lb/premium316/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dtP103zL/espn2.png" group-title="OLAHRAGA",ESPN 2 US
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddh2.webdicdn.lol/ddh2/premium45/tracks-v1a1/mono.m3u8
+https://webudit.webdicdn.lol/lb/premium45/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tJVYMV8H/espn.png" group-title="OLAHRAGA",ESPN US
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddh2.webdicdn.lol/ddh2/premium44/tracks-v1a1/mono.m3u8
+https://webudit.webdicdn.lol/lb/premium44/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BZTnNT8C/maximo1.png" group-title="OLAHRAGA",Supersport Maximo 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddh2.webdicdn.lol/ddh2/premium572/tracks-v1a1/mono.m3u8
+https://webudit.webdicdn.lol/lb/premium572/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XqC5NBXj/ssf.png" group-title="OLAHRAGA",Supersport Football
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddh2.webdicdn.lol/ddh2/premium56/tracks-v1a1/mono.m3u8
+https://webudit.webdicdn.lol/lb/premium56/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sXdxq29F/motorsport.png" group-title="OLAHRAGA",Supersport Motorsport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddh2.webdicdn.lol/ddh2/premium424/tracks-v1a1/mono.m3u8
+https://webudit.webdicdn.lol/lb/premium424/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dtRvMQnG/action.png" group-title="OLAHRAGA",Supersport Action
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddh2.webdicdn.lol/ddh2/premium420/tracks-v1a1/mono.m3u8
+https://webudit.webdicdn.lol/lb/premium420/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4xhdhR1d/variety4.png" group-title="OLAHRAGA",Supersport Variety 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddy5.webdicdn.lol/ddy5/premium419/playlist.m3u8
+https://webudit.webdicdn.lol/lb/premium419/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L6cQ2jCW/variety3.png" group-title="OLAHRAGA",Supersport Variety 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddy2.webdicdn.lol/ddy2/premium418/playlist.m3u8
+https://webudit.webdicdn.lol/lb/premium418/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tgBh10bY/variety2.png" group-title="OLAHRAGA",Supersport Variety 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddy5.webdicdn.lol/ddy5/premium417/playlist.m3u8
+https://webudit.webdicdn.lol/lb/premium417/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G9wthMst/variety1.png" group-title="OLAHRAGA",Supersport Variety 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddy5.webdicdn.lol/ddy5/premium416/playlist.m3u8
+https://webudit.webdicdn.lol/lb/premium416/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QxXvvQzJ/sslaliga.png" group-title="OLAHRAGA",Supersport La Liga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddh2.webdicdn.lol/ddh2/premium415/tracks-v1a1/mono.m3u8
+https://webudit.webdicdn.lol/lb/premium415/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C56dThwG/sspl.png" group-title="OLAHRAGA",Supersport Premier League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddh2.webdicdn.lol/ddh2/premium414/tracks-v1a1/mono.m3u8
+https://webudit.webdicdn.lol/lb/premium414/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3Npr6gbT/wwe.png" group-title="OLAHRAGA",WWE Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddy1.webdicdn.lol/ddy1/premium376/tracks-v1a1/mono.m3u8
+https://webudit.webdicdn.lol/lb/premium376/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsfN0BRP/skypl.png" group-title="OLAHRAGA", Sky Sport Premier League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddh2.webdicdn.lol/ddh2/premium130/tracks-v1a1/mono.m3u8
+https://webudit.webdicdn.lol/lb/premium130/index.m3u8
 
 #EXTINF:-1 tvg-logo="--" group-title="OLAHRAGA", SSPL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -836,28 +907,28 @@ https://ddh2.webdicdn.lol/ddh2/premium130/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cCgVXB7T/skyaction.png" group-title="OLAHRAGA", Sky Sport Action
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddh2.webdicdn.lol/ddh2/premium37/tracks-v1a1/mono.m3u8
+https://webudit.webdicdn.lol/lb/premium37/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pVG744pT/ssa.png" group-title="OLAHRAGA", Sky Sport Arena
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddh2.webdicdn.lol/ddh2/premium36/tracks-v1a1/mono.m3u8
+https://webudit.webdicdn.lol/lb/premium36/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5MTF4kL/ssf.png" group-title="OLAHRAGA", Sky Sport Football
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddh2.webdicdn.lol/ddh2/premium35/tracks-v1a1/mono.m3u8
+https://webudit.webdicdn.lol/lb/premium35/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/283hbP7y/skyf1.png" group-title="OLAHRAGA", Sky Sport F1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddy2.webdicdn.lol/ddy2/premium60/playlist.m3u8
+https://webudit.webdicdn.lol/lb/premium60/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/X7W9VBfr/unifi.png" group-title="OLAHRAGA", Unifi Sports
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/902r6c5Z/mutv.png" group-title="OLAHRAGA", MUTV
-https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/tracks-v1a1/mono.m3u8
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTWbqqKr/astrobol2.png" group-title="OLAHRAGA", Astro Arena Bola 2
 #https://kametv.my.id/putar/malay/arenabola2.php
@@ -917,20 +988,29 @@ https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zf4Z8NZ9/milantv.png" group-title="OLAHRAGA", Milan TV
 ttp://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=691540&extension=ts&play_token=xEv5VCfF0e
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HsW7LvxT/ass5.png" group-title="OLAHRAGA", Astro Supersports 5
-#ttp://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=918982&extension=ts&play_token=9kf46kFDzB
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Lsn6t04w/ass4.png" group-title="OLAHRAGA", Astro Supersports 4
-http://4ksuper.live/play/live.php?mac=00:1a:79:50:63:9e&stream=1111031&extension=ts&play_token=Pugwij228j
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://webudit.webdicdn.lol/lb/premium126/index.m3u8
+#http://4ksuper.live/play/live.php?mac=00:1a:79:50:63:9e&stream=1111031&extension=ts&play_token=Pugwij228j
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yxRQ4B19/ass3.png" group-title="OLAHRAGA", Astro Supersports 3
-http://4ksuper.live/play/live.php?mac=00:1a:79:50:63:9e&stream=1111032&extension=ts&play_token=TUWsaM2f5w
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://webudit.webdicdn.lol/lb/premium125/index.m3u8
+#http://4ksuper.live/play/live.php?mac=00:1a:79:50:63:9e&stream=1111032&extension=ts&play_token=TUWsaM2f5w
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8zpDTXq9/ass2.png" group-title="OLAHRAGA", Astro Supersports 2
-http://4ksuper.live/play/live.php?mac=00:1a:79:50:63:9e&stream=1111033&extension=ts&play_token=8v9semkA9z
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://webudit.webdicdn.lol/lb/premium124/index.m3u8
+#http://4ksuper.live/play/live.php?mac=00:1a:79:50:63:9e&stream=1111033&extension=ts&play_token=8v9semkA9z
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZRkqcFMc/ass1.png" group-title="OLAHRAGA", Astro Supersports 1
-http://4ksuper.live/play/live.php?mac=00:1a:79:50:63:9e&stream=1111034&extension=ts&play_token=PZ5yzWeZhj
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://webudit.webdicdn.lol/lb/premium123/index.m3u8
+#http://4ksuper.live/play/live.php?mac=00:1a:79:50:63:9e&stream=1111034&extension=ts&play_token=PZ5yzWeZhj
 
 #EXTINF:-1 tvg-id="MNCSports.id" tvg-name="MNC Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Sportstars.png" group-title="OLAHRAGA",Sportstars
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -965,103 +1045,107 @@ https://newanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PxL5T8sc/bp3.png" group-title="OLAHRAGA", beIN Sports Premium 3 AR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddh2.webdicdn.lol/ddh2/premium100/index.m3u8
+https://webudit.webdicdn.lol/lb/premium100/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/660dyDDh/bp2.png" group-title="OLAHRAGA", beIN Sports Premium 2 AR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddh2.webdicdn.lol/ddh2/premium99/playlist.m3u8
+https://webudit.webdicdn.lol/lb/premium99/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jd3d1X7T/bp1.png" group-title="OLAHRAGA", beIN Sports Premium 1 AR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddh2.webdicdn.lol/ddh2/premium98/tracks-v1a1/mono.m3u8
+https://webudit.webdicdn.lol/lb/premium98/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Vk3MMrLX/bein7.png" group-title="OLAHRAGA", beIN Sports 7 AR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddh2.webdicdn.lol/ddh2/premium97/tracks-v1a1/mono.m3u8
+https://webudit.webdicdn.lol/lb/premium97/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DzLGcv8H/bein6.png" group-title="OLAHRAGA", beIN Sports 6 AR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddh2.webdicdn.lol/ddh2/premium96/tracks-v1a1/mono.m3u8
+https://webudit.webdicdn.lol/lb/premium96/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YqpgkBhB/bein5.png" group-title="OLAHRAGA", beIN Sports 5 AR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddh2.webdicdn.lol/ddh2/premium95/tracks-v1a1/mono.m3u8
+https://webudit.webdicdn.lol/lb/premium95/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fysdJ6CX/bein4.png" group-title="OLAHRAGA", beIN Sports 4 AR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddh2.webdicdn.lol/ddh2/premium94/tracks-v1a1/mono.m3u8
+https://webudit.webdicdn.lol/lb/premium94/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/D0cXsBpN/bein3.png" group-title="OLAHRAGA", beIN Sports 3 AR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddh2.webdicdn.lol/ddh2/premium93/tracks-v1a1/mono.m3u8
+https://webudit.webdicdn.lol/lb/premium93/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RVXtZpH6/bein2.png" group-title="OLAHRAGA", beIN Sports 2 AR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddh2.webdicdn.lol/ddh2/premium92/tracks-v1a1/mono.m3u8
+https://webudit.webdicdn.lol/lb/premium92/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mZ3M0gZS/bein1.png" group-title="OLAHRAGA", beIN Sports 1 AR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddh2.webdicdn.lol/ddh2/premium91/tracks-v1a1/mono.m3u8
+https://webudit.webdicdn.lol/lb/premium91/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vmjYksMC/eurosport2.png" group-title="OLAHRAGA", Eurosports 2
-http://eu.majes-line.co/play/live.php?mac=00:1A:79:6F:D5:39&stream=577962&extension=ts&play_token=ic7wEJbsvj
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://webudit.webdicdn.lol/lb/premium525/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/26ZkfKSy/eurosport1.png" group-title="OLAHRAGA", Eurosports 1
-http://eu.majes-line.co/play/live.php?mac=00:1A:79:6F:D5:39&stream=577963&extension=ts&play_token=qQl23u6Sjg
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://webudit.webdicdn.lol/lb/premium524/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JnZwjttD/tntsports4.png" group-title="OLAHRAGA", TNT Sports 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddy1.webdicdn.lol/ddy1/premium34/playlist.m3u8
+https://webudit.webdicdn.lol/lb/premium34/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pXCGNPKN/tntsports3.png" group-title="OLAHRAGA", TNT Sports 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddy1.webdicdn.lol/ddy1/premium33/playlist.m3u8
+https://webudit.webdicdn.lol/lb/premium33/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HnBxmJp8/tntsports2.png" group-title="OLAHRAGA", TNT Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddy1.webdicdn.lol/ddy1/premium32/playlist.m3u8
+https://webudit.webdicdn.lol/lb/premium32/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FHkq52ph/tntsports.png" group-title="OLAHRAGA", TNT Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddy1.webdicdn.lol/ddy1/premium31/playlist.m3u8
+https://webudit.webdicdn.lol/lb/premium31/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Polsat_Sport_Extra_2021_gradient.svg/2560px-Polsat_Sport_Extra_2021_gradient.svg.png" group-title="OLAHRAGA", Polsat Sport Extra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddh2.webdicdn.lol/ddh2/premium50/tracks-v1a1/mono.m3u8
+https://webudit.webdicdn.lol/lb/premium50/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_Sport_2021_gradient.svg/1200px-Polsat_Sport_2021_gradient.svg.png" group-title="OLAHRAGA", Polsat Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddh2.webdicdn.lol/ddh2/premium47/tracks-v1a1/mono.m3u8
+https://webudit.webdicdn.lol/lb/premium47/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1X5NPDJ1/bein1en.png" group-title="OLAHRAGA", beIN Sports 1 EN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://daddylivehd.site/
-https://daddylivehd.one/tv/albaplayer/stream-61/?serv=1/
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://webudit.webdicdn.lol/lb/premium61/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTYjh90Y/bein2en.png" group-title="OLAHRAGA", beIN Sports 2 EN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddh2.webdicdn.lol/ddh2/premium90/tracks-v1a1/mono.m3u8
+https://webudit.webdicdn.lol/lb/premium90/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C10qP381/bein3en.png" group-title="OLAHRAGA", beIN Sports 3 EN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddh2.webdicdn.lol/ddh2/premium46/tracks-v1a1/mono.m3u8
+https://webudit.webdicdn.lol/lb/premium46/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y0Zg3hzc/beinindo.png" group-title="OLAHRAGA", beIN Sports 1 ID
 https://kametv.my.id/putar/beinindosatu.php
