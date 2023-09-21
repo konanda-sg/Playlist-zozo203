@@ -396,17 +396,18 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(f092c2ba-4baa
 #EXTINF:-1 tvg-id="CitraBioskop.id" tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="FILM",Citra Bioskop 
 http://edge.linknetott.swiftserve.com/channelgroup4/cg435production/ch376/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR2SVBpJ/etvbioskop.png" group-title="FILM",  ETV Bioskop
-https://kametv.my.id/putar/etv01.php
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/WzsSYwwj/ETVB1.png" group-title="5. MOVIES",ETV BIOSKOP 1 
+http://37.49.230.42:8080/live/Vladisergeevic/7eef2c4388/298526.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x165xmXV/ETVB2.png" group-title="5. MOVIES",ETV BIOSKOP 2 
+http://37.49.230.42:8080/live/Vladisergeevic/7eef2c4388/298527.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CKxbhDdd/etvbioskop2.png" group-title="FILM",  ETV Bioskop 2
-https://kametv.my.id/putar/etv02.php
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6Q1ZRLyT/ETVB3.png" group-title="5. MOVIES",ETV BIOSKOP 3 
+http://37.49.230.42:8080/live/Vladisergeevic/7eef2c4388/298528.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/j5WNNbHb/etvbioskop3.png" group-title="FILM",  ETV Bioskop 3
-https://kametv.my.id/putar/etv03.php
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPNgpwW0/etvbioskop4.png" group-title="FILM",  ETV Bioskop 4
-https://kametv.my.id/putar/etv04.php
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn2LctL1/ETVB4.png" group-title="5. MOVIES",ETV BIOSKOP 4 
+#http://37.49.230.42:8080/live/Vladisergeevic/7eef2c4388/298529.m3u8
+http://kuchini.site:8080/multi6741/ab72059e/298529
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/FFPL4VYB/celestial-FILM.png" group-title="FILM",Celestial Movies 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
