@@ -235,7 +235,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TvNMoviesHD/mpd/TvNMoviesHD.mpd
 #EXTINF:-1 tvg-id="IMC" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1613353271-.png" group-title="Indonesian Entertainment & Movies",Indonesia Movie Channel (V+)
 https://fta3-cdn-flr.visionplus.id/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Fik.png" group-title="PREMIUM MOVIE",Flik
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Fik.png" group-title="Indonesian Entertainment & Movies",Flik
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 https://wahyu1ptv.pages.dev/Flik-HD.m3u8
 
