@@ -1189,7 +1189,8 @@ https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=9182&type=drm
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-https://seprai.jasoncreak8.workers.dev/play.mpd?id=9182&type=EVENT
+https://seprai.jasoncreak8.workers.dev/play.mpd?id=9182&type=dash
+
 
 #EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="https://iili.io/FtSr5Mb.jpg", Premier League 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
