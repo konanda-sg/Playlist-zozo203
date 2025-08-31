@@ -1206,6 +1206,14 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 
 
+#EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="https://raw.githubusercontent.com/flyinproxy/img/refs/heads/main/peacock-event.png",Peacock Live
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00225edf35086d9bdd97600f09afef7f:a956a8b0e3dede99f51810eb4c4ed057
+https://g003-sle-us-cmaf-prd-cf.cdn.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(2506338-207751-2478d660807)/master_2hr.mpd
+
+
 ==========LIGA SPANYOL==========
 ==========LIGA SPANYOL==========
 ==========LIGA SPANYOL==========
